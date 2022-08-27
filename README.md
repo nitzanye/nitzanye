@@ -2,7 +2,7 @@
 
 ## I'm Nitzan, a Full-Stack web developer.
 
-
+![background](https://user-images.githubusercontent.com/93406243/187047331-7409139a-66e4-4ce1-b4df-cb0f8258cd4a.png)
 
 <!--
 **nitzanye/nitzanye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
