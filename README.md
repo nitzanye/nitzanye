@@ -1,4 +1,4 @@
-![background-nitzan-smulevici](https://user-images.githubusercontent.com/93406243/187048725-316860a8-0541-4560-ae01-a6761c660486.jpg)
+![background-nitzan-smulevici](https://user-images.githubusercontent.com/93406243/187048897-c24fbc02-a0f0-4c11-baac-db4d92e9a716.jpg)
 
 ### Hi there 👋
 
