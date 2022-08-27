@@ -1,6 +1,4 @@
-<div align="center">
 ![background-nitzan-smulevici](https://user-images.githubusercontent.com/93406243/187048725-316860a8-0541-4560-ae01-a6761c660486.jpg)
-</div>
 
 ### Hi there 👋
 
