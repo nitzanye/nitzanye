@@ -15,9 +15,7 @@
 ### :woman_technologist: About Me :
 
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- 🌱 Exploring Technical Content Writing.
-- ⚡ In my free time, I solve problems on Codewars and read tech articles.
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/nitzan-smulevici-94266645/)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/nitzan-smulevici/)
 
 ---
 
