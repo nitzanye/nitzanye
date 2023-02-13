@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-## I'm Nitzan, a Full-Stack web developer.
+## Hey, I'm Nitzan, a Full Stack Web Developer
 
 <div id="badges" >
   <a href="https://www.linkedin.com/in/nitzan-smulevici/">
@@ -14,7 +14,16 @@
 
 ### :woman_technologist: About Me :
 
-- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- 🔭 I'm on a mission to bring ideas to life and create innovative solutions through development. 
+      I believe that coding is more than just logic, functions, and data - it's a powerful tool that allows us to build and shape the world around us.
+
+- 🌱 On my Github page, you will discover some of the apps I have developed, my favorite tools and scripts, and more.
+
+- 💻 One app you would not find here is a product that is still still under development.
+     This is a client-side web-based solution designed to make the process of onboarding new users more efficient. 
+     It incorporates various elements, including Gmail API integration, a Discord bot, and REST API support. 
+     The app is built using the popular React library and the Redux state management tool.
+
 - 📫 How to reach me: nitzanye@gmail.com || [Linkedin](https://www.linkedin.com/in/nitzan-smulevici/)
 
 ---
