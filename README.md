@@ -15,7 +15,7 @@
 ### :woman_technologist: About Me :
 
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/nitzan-smulevici/)
+- 📫 How to reach me: nitzanye@gmail.com || [Linkedin](https://www.linkedin.com/in/nitzan-smulevici/)
 
 ---
 
