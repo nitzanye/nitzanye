@@ -2,14 +2,6 @@
 
 ## Hey, I'm Nitzan, a Full Stack Web Developer
 
-<div id="badges" >
-  <a href="https://www.linkedin.com/in/nitzan-smulevici/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-
----
-
 ### :woman_technologist: About Me :
 
 - 🔭 I'm on a mission to bring ideas to life and create innovative solutions through development. 
@@ -22,7 +14,13 @@
      It incorporates various elements, including Gmail API integration, a Discord bot, and REST API support. 
      The app is built using the popular React library and the Redux state management tool.
 
-- 📫 How to reach me: nitzanye@gmail.com || [Linkedin](https://www.linkedin.com/in/nitzan-smulevici/)
+- 📫 How to reach me: nitzanye@gmail.com 
+- <div id="badges" >
+  <a href="https://www.linkedin.com/in/nitzan-smulevici/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+-   [Linkedin](https://www.linkedin.com/in/nitzan-smulevici/)
 
 ---
 
