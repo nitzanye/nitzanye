@@ -2,8 +2,6 @@
 
 ## <div align='center'>Hey, I'm Nitzan, a Full Stack Web Developer</div>
 
-- 🔭 I'm currently working on [CeeVee](https://app.ceevee.ai/)
-
 - 🌱 I'm on a mission to bring ideas to life and create innovative solutions through development. 
       I believe that coding is more than just logic, functions, and data - it's a powerful tool that allows us to build and shape the world around us.
   
